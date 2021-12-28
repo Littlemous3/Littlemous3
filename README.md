@@ -1,5 +1,5 @@
-Just Passing Through 
-> (HTML/CSS)
+Why must Shakespeare be so traumatic?
+> HTML/CSS (Web Design)
 
 <!---
 Littlemous3/Littlemous3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
